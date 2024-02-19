@@ -1,0 +1,8 @@
+﻿  quizz.cpp
+C:\Users\szymo\source\repos\quizz\quizz\quizz.cpp(95,48): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  1 of 491 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  quizz.vcxproj -> C:\Users\szymo\source\repos\quizz\x64\Release\quizz.exe
